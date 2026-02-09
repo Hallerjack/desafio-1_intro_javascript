@@ -26,4 +26,4 @@ Fernando González Díaz - Diseñador web / Desarrollador Front-End
 
 ---
 
-*Proyecto desarrollado como parte del bootcamp Full Stack JavaScript de Desafío Latam - 2025*
+*Proyecto desarrollado como parte del bootcamp Full Stack JavaScript de Desafío Latam - 2026*
